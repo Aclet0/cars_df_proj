@@ -8,3 +8,11 @@ la puissance dyn (90, 110, 115) comme indiqué dans la colonne make et/ou versio
  
 
 Question 2 : visualiser les modèles vs le nombre de kilomètres vs l’année de première mise en circulation en fonction du prix de vente de la manière la plus pertinente possible (la bibliothèque viz Python à utiliser est laissée à ton appréciation  - un truc joli, quoi
+
+
+
+
+# project structure
+ scraping.py: is my scraping file to answer to question 1
+ cars_jupyter.ipynb: is a notebook answering to the second question
+
